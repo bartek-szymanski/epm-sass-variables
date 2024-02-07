@@ -1,0 +1,25 @@
+{
+  "name": "epm-sass-variables",
+  "version": "1.0.0",
+  "description": "Clear and consistent Sass variable naming with the EPM structure.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "css",
+    "naming",
+    "convention",
+    "epm",
+    "variables",
+    "maintainability",
+    "scalability",
+    "element property modifier",
+    "sass variables convention",
+    "sass variables",
+    "sass convention"
+  ],
+  "author": "Bartek Szymanski",
+  "license": "ISC"
+}

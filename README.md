@@ -51,7 +51,6 @@ Sass variables
 ```scss
 $button-primary__color: orange;
 $button-primary__color--hover: violet;
-
 ```
 
 Element styles
@@ -68,6 +67,7 @@ Element styles
 ```
 
 ---
+
 This Sass variable naming convention was originally developed and used within the Kwiziq project, an AI language learning platform. It promotes clear, consistent, and scalable variable naming, and we believe it can be beneficial to other projects as well.
 
 Kwiziq

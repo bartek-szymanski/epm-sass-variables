@@ -18,7 +18,10 @@
     "element property modifier",
     "sass variables convention",
     "sass variables",
-    "sass convention"
+    "sass convention",
+    "epm structure for sass variables",
+    "improve sass code organization",
+    "clear and consistent sass variable naming"
   ],
   "author": "Bartek Szymanski",
   "license": "ISC"
